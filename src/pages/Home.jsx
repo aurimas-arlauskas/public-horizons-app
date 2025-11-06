@@ -11,7 +11,7 @@ const Home = () => {
         <title>D&D Scheduler - Home (test push)</title>
         <meta
           name="description"
-          content="Welcome to the D&D Scheduler. Organize your campaigns, schedule sessions, and manage your characters all in one place."
+          content="Welcome to autodeployed the D&D Scheduler. Organize your campaigns, schedule sessions, and manage your characters all in one place."
         />
       </Helmet>
       <div className="flex-grow flex flex-col items-center justify-center text-center p-4">
